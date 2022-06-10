@@ -31,4 +31,5 @@ void loop() {
   previousFData = fh;
 
   delay(1000);
+  Serial.flush();
 }

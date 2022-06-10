@@ -1,0 +1,1070 @@
+id,Material,Thermal Conductivity,Thermal Diffusivity,Specific Heat Capacity,Thermal Effusivity,Material Density
+0,1-dodecene,0.14,0.0856,2150,478.5,761
+1,abs resin (high k),0.209,0.13,1506,572,1040
+2,abs resin (low k),0.138,0.09,1506,465,1040
+3,acetal resin (delrin),0.23,0.11,1464,692,1420
+4,acetone,0.181,0.1,2160,556,790
+5,acetylene,0.5,0.27,3000,960.5,615
+6,acrylic (high k),0.251,0.15,1423,655,1200
+7,acrylic (lucite plexiglass),0.152,0.1,1297,486,1200
+8,actinium,12.552,9.9,126,3989,10100
+9,air,0.025,19.4,1004,6,1.29
+10,alkyd isocyanate foam,0.05,0.19,1674,116,160
+11,allyl cast resins (high heat capacity),0.205,0.07,2343,790,1300
+12,allyl cast resins (low heat capacity),0.205,0.15,1088,538,1300
+13,alumina brick (Al2O3 53) (20 p),1.381,0.79,753,1557,2330
+14,alumina brick (Al2O3 83) (28 p),1.506,0.78,753,1707,2570
+15,alumina brick fused (Al2O3 96) (22 p),3.096,1.42,753,2600,2900
+16,alumina brick high k (Al2O3 87) (22 p),2.929,1.37,753,2507,2850
+17,alumina porcelain (high k),18.828,6.97,795,7134,3400
+18,aluminum,225.94,91,921,23688,2698
+19,aluminum (liquid),92.048,36,1084,15345,2360
+20,aluminum alloy (Al Mg 2.5-5.0),125.52,53.7,879,17127,2660
+21,aluminum alloy (Al84.0 cast or tempd),83.68,35.3,879,14089,2700
+22,aluminum alloy (Al84.0 average trtmt),125.52,52.9,879,17256,2700
+23,aluminum alloy (Al84.0 wrot or annld),146.44,61.7,879,18638,2700
+24,aluminum alloy (Al90.0 cast or tempd),104.6,44.1,879,15752,2700
+25,aluminum alloy (Al92.0 wrot or annld),167.36,70.6,879,19925,2700
+26,aluminum alloy (Al93.0 average trtmt),146.44,61.7,879,18638,2700
+27,aluminum alloy (Al94.0 cast or tempd),125.52,52.9,879,17256,2700
+28,aluminum alloy (Al96.0 average trtmt),167.36,70.6,879,19925,2700
+29,aluminum alloy (Al96.0 wrot or annld),188.28,79.4,879,21134,2700
+30,aluminum alloy (Al96.5 cast or tempd),146.44,61.7,879,18638,2700
+31,aluminum alloy (Al98.0 average trtmt),188.28,79.4,879,21134,2700
+32,aluminum alloy (Al98.5 cast or tempd),167.36,70.6,879,19925,2700
+33,aluminum alloy (Al99.0 average trtmt),209.2,88.2,879,22277,2700
+34,aluminum alloy (Al99.0 wrot or annld),209.2,88.2,879,22277,2700
+35,aluminum alloy (Al99.2 cast or tempd),188.28,79.4,879,21134,2700
+36,aluminum alloy (Al99.8 cast or tempd),209.2,88.2,879,22277,2700
+37,aluminum alloy 2024-5-t4 (annealed),175.73,75.5,837,20219,2780
+38,aluminum alloy 2024-t4 and 24s-24 (ar),118.41,50.9,837,16597,2780
+39,aluminum alloy 7075-t6 (annealed),163.18,69.6,837,19557,2801
+40,aluminum alloy 7075-t6 (as received),121.34,51.8,837,16864,2801
+41,aluminum alloy 7079,121.34,55.7,795,16258,2740
+42,aluminum fluosilicate (topaz) (2 AlFO.SiO2) (c-axis),22.05,4.96,1255,9898,3540
+43,aluminum fluosilicate (topaz) (2 AlFS.SiO2) (a-axis),19.246,4.33,1255,9247,3540
+44,aluminum nitride (AlN) (prs axis 98 d),35.146,15,732,9075,3200
+45,aluminum oxide (Al2O3) (polyxtal 55 d),17.573,10.3,778,5485,2200
+46,aluminum oxide + cr (Al2O3 23 Cr 77),46.024,15.5,502,11677,5900
+47,aluminum oxide + cr (Al2O3 70 cr 30),9.205,2.49,628,5838,5900
+48,aluminum oxide foam (Al2O3),0.042,0.11,778,128,500
+49,aluminum oxide foam (Al2O3),5.23,3.54,778,2781,1900
+50,aluminum silicate (3Al2O3.2SiO2) (100d),6.276,2.56,766,3921,3200
+51,americium,12.552,8.55,126,4293,11700
+52,ammonia (NH3) (gas),0.024,15.2,2084,6,0.771
+53,ammonia (NH3) (liquid under pressure),0.05,0.02,4686,381,618
+54,ammonium bromide (NH4Br),2.51,1.03,1004,2475,2430
+55,ammonium chloride (NH4Cl),2.51,0.98,1678,2539,1530
+56,analcite - sodium aluminum silicate hydrate (Na2O.Al2O3.4SiO2.4H2O),3.431,1.13,1339,3222,2260
+57,andalusite - aluminum silicate (Al2O3.SiO2) (ortho xtal),11.004,4.55,770,5158,3140
+58,aniline,0.17,0.08,2140,609.4,1021
+59,antimony,18.41,13.3,207,5053,6696
+60,antimony (liquid),20.92,12.6,255,5891,6500
+61,antimony telluride (Sb2Te3),3.305,2.43,209,2120,6500
+62,antimony telluride (sb2te3) (polyxtal),4.602,3.39,209,2502,6500
+63,argon (gas),0.018,19.4,519,4,1.784
+64,armco iron,74,20.24,850,22200,7860
+65,arsenic grey,4.184,2.21,331,2815,5730
+66,arsenic telluride (As2Te3) (v zone mlt),2.594,1.85,234,1910,6000
+67,astitine,0.418,0.4,139,661,7500
+68,balsa wood (across grain),0.05,0.17,2301,123,130
+69,balsa wood (across grain),0.084,0.11,2301,248,320
+70,baratol h.e. (tnt 26 ba nitrate 76),0.495,0.24,803,1017,2600
+71,barium,33.472,50.8,188,4697,3500
+72,barium boride (BaB6),44.769,8.22,1255,15615,4340
+73,barium fluoride (BaF2) (single crystal),11.297,5.26,439,4926,4890
+74,barium nitrate (Ba(NO3)2) (prsd 8 k8),1.297,0.46,879,1921,3240
+75,barium sulfate (BaSO4) (crystal),1.674,0.56,669,2245,4500
+76,barium titanate (BaO.TiO2) (+mn nb ox),1.297,0.5,439,1833,5900
+77,barium titanate (BaO.TiO2) (sintered),3.389,1.31,439,2964,5900
+78,barium titanate (bBaO.TiO2) (100 d),4.184,1.61,439,3293,5900
+79,benzene,0.141,0.09,1700,459,879
+80,berkelium,12.552,8.34,126,4348,12000
+81,beryl - beryllium aluminosilicate (3BeO.Al2O3.6SiO2),6.276,1.89,1255,4569,2650
+82,beryllium,184.1,54.1,1841,25027,1848
+83,beryllium + beo (Be BeO 0.6-1.7),179.91,53.7,1820,24546,1840
+84,beryllium alloy (Be96.5),142.26,43,1799,21700,1840
+85,beryllium alloy (Be96.5) (annealed),175.73,53.1,1799,24118,1840
+86,beryllium alloy (Be98.5) (annealed),158.99,48.5,1799,22835,1823
+87,beryllium alloy (Be98.5) (as received),133.89,40.8,1799,20955,1823
+88,beryllium alloy (Be99.5),154.81,45.7,1841,22900,1840
+89,beryllium carbide (Be2C) (hp or snt),23.43,7.84,1423,8368,2100
+90,beryllium copper (Cu Bal Be 0.38-0.55),220.08,63.3,398,27667,8750
+91,beryllium nitride (Be3Nn2) (prsd 3.4 kb),0.711,0.33,1255,1232,1700
+92,beryllium oxide (BeO) (76 pc dens),138.07,57.4,1046,18225,2300
+93,beryllium oxide (BeO) (96 pc dens),255.22,84.1,1046,27824,2900
+94,beryllium oxide + be (BeO 3-12),209.2,67.5,1088,25469,2850
+95,beryllium oxide + Be + Mo (Be 7 Mo 7),158.99,51.5,1038,22158,2975
+96,beryllium oxide + Be + Si,192.46,63.5,1046,24162,2900
+97,beryllium oxide porcelain (4811),125.52,43.1,1004,19117,2900
+98,beta-spodumene (Li2O.Al2O3.4SiO2) (tet),1.046,0.27,1255,2017,3100
+99,bismuth,8.368,7.08,121,3146,9750
+100,bismuth (liquid),10.878,7.64,142,3934,10000
+101,bismuth telluride (Bi2Te3-P) (plane dr),2.51,2.11,154,1728,7700
+102,bismuth telluride sulfide (Bi2Te2S),2.385,2,176,1688,6800
+103,boride z cermet (ZrB2 81-87 MoSi2 13),20.92,8.01,502,7391,5200
+104,borolite 101 cermet (ZrB2 93-96 B 4-7),27.614,11.3,460,8207,5300
+105,boron,2.092,0.74,1130,2431,2500
+106,boron carbide (B4C) (dense),28.451,12.9,921,7928,2400
+107,boron carbide (B4C) (porous),17.154,9.32,921,5620,2000
+108,boron nitride (Bn 80 C 20) (prs axis),19.037,14.8,795,4952,1620
+109,boron nitride (bn 97 bn2o3 2) (prs ax),15.062,9.02,795,5015,2100
+110,boron nitride (Bn 97 Bn2O3 2) (perp p),28.87,17.3,795,6943,2100
+111,boron nitride (BN) (perp pr axis 95 d),32.844,19.7,795,7405,2100
+112,boron nitride (BN) (prs axis 94 d),20.92,12.5,795,5910,2100
+113,brass leaded,117.15,36.6,377,19365,8500
+114,brass yellow (Cu65 Zn35),117.15,36.7,377,19331,8470
+115,brass aluminum (Cu76 Zn22 Al2),100.42,31,377,18034,8600
+116,brass cartridge (Cu70 Zn30),100.42,28,418,18976,8570
+117,brass muntz metal,125.52,39.7,377,19927,8400
+118,brass red cast (Cu85 Zn5 Pb5 Sn3),71.965,21.8,377,15399,8750
+119,brass red wrought (Cu85 Zn15),146.44,44.4,377,21967,8750
+120,brass tin (naval and admiralty),112.97,35.5,377,18972,8460
+121,brick masonry medium,0.711,0.43,837,1091,2000
+122,bromine,0.122,0.08,460,417,3100
+123,bromine (gas),0.005,2.59,234,3,7.59
+124,bronze phospher 1.25 percent,205.02,61.2,377,26214,8900
+125,bronze tin (cast) high leaded,41.84,12.1,377,12040,9200
+126,bronze aluminum (Cu92 Al8),71.128,23.9,377,14547,7900
+127,bronze architectural,121.34,37.9,377,19708,8500
+128,bronze manganese,104.6,33.2,377,18147,8360
+129,bronze phospher 1.25 percent,205.02,61.2,377,26214,8900
+130,bronze phospher 10 percent,50.208,15.2,377,12885,8780
+131,bronze phospher 5 percent,71.128,21.3,377,15406,8860
+132,bronze silicon high,33.472,10.4,377,10369,8530
+133,bronze silicon low,54.392,16.5,377,13388,8750
+134,bronze tin (cast) leaded,50.208,15.3,377,12826,8700
+135,butadiene-acrylonitrile rubber + c,0.418,0.22,1443,899,1340
+136,butyl rubber,0.088,0.05,1966,394,900
+137,cadmium,92.048,46.3,230,13535,8650
+138,cadmium (liquid),34.727,16.5,264,8558,8000
+139,calcium,125.52,123,657,11305,1550
+140,calcium boride (CaB6),39.162,12.7,1255,10996,2460
+141,calcium carbonate - calcite (CaCO3) (a axis),3.849,1.7,837,2955,2710
+142,calcium carbonate - calcite (CaCO3) (c axis),4.393,1.94,837,3156,2710
+143,calcium carbonate (CaCO3) (natural),2.259,1.04,837,2221,2610
+144,calcium fluoride (CaF2) (mineral aggr),4.017,1.08,1167,3861,3180
+145,calcium fluoride (CaF2) (single xtal),9.623,2.59,1167,5976,3180
+146,calcium oxide (CaO) (packed pwd 50 d),0.318,0.25,753,638,1700
+147,calcium oxide (CaO) (pressed 91 dens),13.807,6.05,753,5613,3030
+148,calcium titanate (cao.tio2),4.602,1.54,728,3706,4100
+149,californium,12.552,8.34,126,4348,12000
+150,carbon amorphous (carbon stock),6.276,5.88,707,2589,1510
+151,carbon diamond gem quality type 1,543.92,306,506,31090,3510
+152,carbon graphite (typical k),167.36,105,707,16318,2250
+153,carbon monoxide,0.023,17.9,1046,6,1.25
+154,carbon tetrachloride,0.11,0.0824,840,383.2,1590
+155,castor oil,0.181,0.1,1800,558,956
+156,cellulose acetate (high k),0.335,0.18,1464,798,1300
+157,cellulose acetate (low k),0.167,0.09,1464,564,1300
+158,cellulose acetate butyrate (high k),0.335,0.19,1464,767,1200
+159,cellulose acetate butyrate (low k),0.167,0.1,1464,542,1200
+160,cellulose nitrate (pyroxylin),0.23,0.11,1464,682,1380
+161,cellulose proprionate (high k),0.335,0.19,1464,767,1200
+162,cellulose proprionate (low k),0.167,0.1,1464,542,1200
+163,cellulose triacetate,0.251,0.13,1464,691,1300
+164,cerium,10.878,8.32,193,3771,6790
+165,cerium boride (CeB6) (99.0 pc dense),33.89,11.5,628,9998,4700
+166,cerium oxide (CeO2),11.715,5.46,352,5012,6100
+167,cerium sulfide (Ce2S3),0.586,0.33,343,1022,5200
+168,cerium sulfide (ces),8.368,4.82,293,3812,5930
+169,cesium,41.84,97.2,230,4243,1870
+170,cesium (liquid),25.104,54.4,251,3405,1840
+171,chalk (avg prop),0.837,0.59,921,1089,1540
+172,chloroform,0.13,0.0891,980,435.5,1489
+173,chrome alum (Cr2(SO4)3.K2SO4.24H2O),2.092,0.86,1339,2262,1826
+174,chrome brick (Cr2O3 32),1.172,0.58,628,1534,3200
+175,chrome magnesite brick,2.092,0.93,753,2174,3000
+176,chrome-nickel-iron superalloys,23.43,6.67,439,9074,8000
+177,chromium,87.864,27.4,448,16782,7160
+178,chromium carbide + ni (Cr(x)C(y) Ni),11.297,3.36,502,6165,6700
+179,chromium copper (Cu Bal Cr0.5),326.35,97.6,377,33036,8880
+180,chromium nitride (Cr2N),22.594,5.54,628,9601,6500
+181,chromium nitride (CrN),12.134,2.85,699,7191,6100
+182,chromium silicide (CrSi2),7.95,3.22,494,4430,5000
+183,cobalt,84.935,22.7,423,17833,8860
+184,cobalt alloy (Co64 Cr30 W6),12.552,3.56,418,6658,8440
+185,cobalt alloy he-1049,14.644,4.71,352,6748,8846
+186,cobalt alloy hs-21 (aged),32.635,9.3,423,10699,8300
+187,cobalt alloy hs-21 (as cast),12.552,3.58,423,6635,8300
+188,cobalt alloy hs-23,13.389,3.75,418,6917,8540
+189,cobalt alloy hs-25 (l-605) (wrought),9.205,2.61,385,5694,9150
+190,cobalt alloy hs-27 (cast),11.171,3.25,418,6195,8210
+191,cobalt alloy hs-30 (422-19) (as cast),12.552,3.61,418,6606,8310
+192,cobalt alloy hs-31 (x-40) (as cast),12.552,3.48,418,6724,8610
+193,cobalt alloy hs-36 (cast),9.372,2.69,385,5711,9040
+194,cobalt alloy j-1570,10.042,2.86,418,5941,8400
+195,cobalt alloy jessop g-32,14.644,4.24,418,7114,8260
+196,cobalt alloy k-42b,12.552,3.57,418,6642,8400
+197,cobalt alloy multimet (n-155) (low c),16.318,4.57,435,7637,8215
+198,cobalt alloy multimet (n-155) (wrought),12.97,3.63,435,6809,8215
+199,cobalt alloy s-590 (wrought),12.97,3.71,418,6731,8350
+200,cobalt alloy s-816 (wrought),12.97,3.57,418,6863,8680
+201,cobalt alloy v-36 (wrought),12.552,3.49,418,6720,8600
+202,cobalt alloy wi-52 (cr coated sample),19.665,5.6,418,8313,8400
+203,cobalt alloy wi-A664:G67052,25.104,7.14,418,9393,8400
+204,cobalt oxide (CoO),10.042,2.21,703,6753,6460
+205,cobalt silicide (cos),9.623,2.49,586,6100,6600
+206,colombium alloy (Bb80 W15 Mo5),50.208,21.2,247,10909,9600
+207,colombium alloy (Cb61 Ta28 W10 Zr0.5),44.769,20.8,201,9808,10700
+208,colombium alloy (Cb85 Ti10 Zr5),29.288,14.8,255,7621,7770
+209,colombium alloy (Cb95 Ta5),44.769,19.8,251,10056,9000
+210,commercial bronze (Cu75 Sn25),188.28,56.8,377,24979,8800
+211,composition b-3 h.e. (rdx 60 tnt 40),0.262,0.11,1356,783,1725
+212,composition c-4 h.e. (rdx 90 binders),0.26,0.14,1172,696,1590
+213,concrete 1-4 dry,0.753,0.5,657,1067,2300
+214,concrete cinder,0.335,0.32,657,593,1600
+215,concrete lightweight,0.209,0.34,657,361,950
+216,concrete stone (1-2-4 mix),1.046,0.69,657,1257,2300
+217,copper,397.48,116,385,36983,8940
+218,copper alloy - cupronickel (Cu70 Ni30),29.288,8.74,377,9908,8900
+219,copper alloy (110),390,113,385,36576,8910
+220,copper alloy (Cu Bal Be 1.7-1.9),108.78,33.1,398,18899,8260
+221,copper alloy (Cu99.4 Al0.3 Zr0.27),217.57,64.9,377,27004,8900
+222,copper alloy constantan (Cu55 Ni45),22.175,6.28,398,8852,8890
+223,copper alloy manganin (Cu84 Ni4 Mn12),22.175,6.77,377,8524,8700
+224,copper alloy nickel silver (Ni 10-20),33.472,10.1,377,10532,8800
+225,copper gilding metal (Cu95 Zn5),230.12,69,377,27694,8850
+226,copper lithium oxide (96CuO.4LiO),15.272,3.62,669,8025,6300
+227,copper oxide (CuO) (tenorite),17.991,5.17,536,7914,6500
+228,copper sulfate (CuSO4) (crystal),2.092,0.77,753,2384,3606
+229,copper sulfate hydrate (CuSO4.5H2O),2.259,0.84,1172,2459,2284
+230,copper wrought,376.56,112,377,35526,8900
+231,copy paper,0.0904,0.08771,1260,305,818
+232,cordierite - magnesium aluminum silicate (2MgO.2Al2O3.5SiO2),2.218,1.36,774,1899,2100
+233,cork ground,0.043,0.14,2008,114,150
+234,cork ground regranulated,0.045,0.17,2008,108,130
+235,cupronickel (Cu90 Ni10),41.84,12.5,377,11842,8900
+236,curium,12.552,14.3,126,3321,7000
+237,cyclohexane,0.13,0.0898,1860,433.8,778
+238,cypress wood (across grain),0.096,0.09,2301,319,460
+239,dandelion,7.699,2.86,418,4551,6430
+240,datb h.e. (diamino trinitrobenzene),0.251,0.11,1255,752,1795
+241,decane,0.15,0.1027,2000,468.1,730
+242,deuterium,0.14,110,7113,13,0.18
+243,deuterium oxide (D2O) (liquid),0.561,0.12,4205,1610,1100
+244,diabasic glass (artificial),1.172,0.65,753,1455,2400
+245,diallyl phthalate (dapon),0.305,0.16,1130,755,1650
+246,diatomaceous earth brick (accr strata),0.088,0.25,795,175,440
+247,diatomaceous earth brick (high burn),0.226,0.48,795,326,590
+248,diatomaceous earth brick (molded frd),0.243,0.5,795,343,610
+249,diatomaceous earth brick (prll strata),0.138,0.4,795,220,440
+250,diatomaceous earth brick (use to 1100C),0.222,0.47,795,325,600
+251,diatomaceous earth brick (use to 850c),0.092,0.26,795,179,440
+252,diesel,0.151,0.09,1900,491,840
+253,di-nitrogen tetroxide,0.29,0.1299,1550,804.6,1440
+254,dolomite - calcium magnesium carbonate (CaMg(CO3)(avg prop),2.929,1.18,921,2698,2700
+255,dolomite brick stabilized (22 p),1.674,0.74,837,1945,2700
+256,dysprosium,10.042,6.78,173,3858,8556
+257,egyptian firebrick (64-71 wt% SiO2),0.314,0.45,732,467,950
+258,einsteinium,12.552,8.34,126,4348,12000
+259,epoxy glass fiber filled (molded),0.167,0.11,795,503,1900
+260,epoxy der 332 (c) hysol 6000-op (k),0.195,0.14,1172,525,1210
+261,epoxy silica filled cast,0.628,0.35,1004,1065,1800
+262,epoxy unfilled cast,0.188,0.15,1046,486,1200
+263,erbium,9.623,6.33,168,3825,9060
+264,etbe (ethyl tert-butyl ether),0.14,0.0824,2207,487.7,770
+265,ethanol,0.18,0.0934,2440,588.9,790
+266,ether (diethyl ether),0.14,0.0866,2260,475.7,715
+267,ethyl cellulose (wide range of c k),0.23,0.1,2092,744,1150
+268,ethyl vinyl acetate,0.075,0.03,2301,456,1200
+269,ethylene glycol,0.249,0.09,2386,814,1115
+270,ethylene glycol 30%,0.484,0.12,3714,1365,1037
+271,ethylene glycol 50%,0.425,0.12,3287,1215,1056
+272,europium,12.552,13.5,176,3419,5300
+273,europium boride (EuB6) (93.0 pc dense),23.012,7.97,628,8151,4600
+274,expanded polystyrene foam (NIST 1453),0.033,0.77,1130,38,38
+275,extruded polystyrene foam,0.029,0.773,1200,25,29
+276,fermium,12.552,8.34,126,4348,12000
+277,fiberfax paper,0.03,0.13,732,84,324
+278,Fibrous glass board (NIST 1450d),0.0325,0.2323,1093,67,128
+279,fireclay brick (22 p),1.297,0.9,732,1371,1980
+280,fired carbon brick,3.598,3.46,707,1934,1470
+281,flint glass,0.753,0.63,502,953,2400
+282,fluorine (gas),0.026,19.1,816,6,1.696
+283,fluorocarbons cfe and ctfe,0.251,0.13,921,700,2120
+284,fluorocarbons fep,0.251,0.1,1172,805,2200
+285,fluorocarbons tfe (teflon),0.251,0.12,1004,740,2170
+286,foamed glass,0.035,0.32,753,61,144
+287,forsterite - magnesium silicate (2MgO.SiO2) (100 pc dense),5.858,2.19,837,3960,3200
+288,forsterite brick (MgO 58 SiO2 38)(20 p),1.004,0.46,795,1484,2760
+289,forsterite ceramics,5,2.137,780,3420,3000
+290,francium,12.552,7.35,142,4630,12000
+291,fused quartz silica glass (SiO2),1.381,0.84,745,1504,2200
+292,gadolinium,8.786,4.85,230,3989,7870
+293,gadolinium boride (GdB6) (95.6 pc dens),20.502,6.53,628,8021,5000
+294,gadolinium oxide (Gd2O3) (monoc) (98 d),10.042,4.53,290,4717,7640
+295,gallium,33.472,15.2,372,8581,5907
+296,gallium (liquid),33.472,13.8,399,9015,6090
+297,gasoline,0.151,0.09,2100,488,750
+298,germanium (intrinsic p-type),58.576,34.1,322,10025,5325
+299,germanium (n-type),58.576,34.1,322,10025,5325
+300,glass (avg prop),1.046,0.54,837,1419,2300
+301,glass borosilicate crown,1.046,0.62,669,1328,2520
+302,glycerol,0.271,0.08,2400,906,1262
+303,gold,317.98,129,128,28027,19300
+304,gold (liquid),167.36,65.4,149,20699,17240
+305,granite (avg prop),2.51,1.13,837,2359,2650
+306,granite (high k),3.975,1.79,837,2969,2650
+307,granite (low k),1.715,0.77,837,1950,2650
+308,Graphite Sheet 100 um (in-plane),700,968,850,22489,850
+309,Graphite Sheet 25 um (in-plane),1600,896,850,53442,2100
+310,Graphite Sheet 70 um (in-plane),800,855,850,27350,1100
+311,gypsum - calcium sulfate dihydrate (CaSO4.4H2O),1.297,0.51,1088,1809,2320
+312,gypsum (CaCO4 4H2O) (artificial),0.753,0.33,1088,1315,2110
+313,hafnium,22.175,11.8,142,6454,13200
+314,hafnium boride (HfB2),41.84,14.9,251,10845,11200
+315,hafnium carbide (HfC),29.288,12.3,188,8336,12600
+316,hafnium nitride (HfN),11.715,5.16,209,5157,10850
+317,hafnium oxide (HfO2) (monoc) (94 d),1.674,0.68,272,2035,9100
+318,hard fired silica brick (SiO2 94-95),1.674,1.24,753,1506,1800
+319,helium (gas),0.15,164,5188,12,0.177
+320,hematite (Fe2O3),12.552,3.82,628,6425,5240
+321,holmium,10.042,6.9,165,3822,8800
+322,hydrazine,0.57,0.1832,3080,1331.7,1010
+323,hydrogen,0.12,0.1943,8700,272.2,71
+324,hydrogen (gas),0.186,145,14230,15,0.0899
+325,indium,23.43,13.5,239,6387,7300
+326,indium (liquid),43.932,23.5,266,9065,7030
+327,indium antimonide (InSb) (imp 0.16),16.318,10.7,218,4986,7000
+328,indium antimonide (insb) (imp 0.33-1.2),71.128,46.7,218,10409,7000
+329,indium arsenide (inas) (polyx imp 3.0),52.718,35,251,8910,6000
+330,indium arsenide (inas) (pure s-doped),26.778,17.8,251,6350,6000
+331,indium telluride (In2Te3),1.255,1.35,201,1080,4629
+332,iodine (solid),0.004,0,218,68,4930
+333,iridium,146.44,50.2,130,20672,22500
+334,iron ductile (0.06 mg),33.472,9.79,460,10698,7430
+335,iron grey cast pearlitic (3.4 c),58.576,17.7,460,13922,7190
+336,iron ni-resist type d2 (cast),13.389,3.93,460,6757,7410
+337,iron wrought (various),58.576,16.5,460,14407,7700
+338,iron (0 to 3000 deg c),71.965,20.4,448,15924,7870
+339,iron (-273 to 763 deg c),71.965,20.4,448,15924,7870
+340,iron (-51 to 1537 deg c),71.128,20.2,448,15831,7870
+341,iron ductile,28.87,8.71,460,9781,7200
+342,iron ductile (Mg containing),33.054,9.98,460,10465,7200
+343,iron grey cast ferritic (2.3-3.0 c),50.208,15.2,460,12889,7190
+344,iron grey cast ferritic (3.2-3.8 c),71.128,21.5,460,15341,7190
+345,iron grey cast pearlitic (2.3-3.0 c),41.84,12.6,460,11766,7190
+346,iron grey cast pearlitic (3.0-3.2 c),50.208,15.2,460,12889,7190
+347,iron grey cast pearlitic (3.7-3.8 c),66.944,20.2,460,14883,7190
+348,iron grey cast pearlitic (4.12 c),79.496,24,460,16218,7190
+349,iron ingot (fe99.9+),71.128,20.2,448,15831,7870
+350,iron malleable (2.5 c),51.045,13.5,527,13920,7200
+351,iron ni-hard types 1 and 2 (kovar),14.226,4.02,460,7100,7700
+352,iron ni-resist type 3 (cast),39.33,11.6,460,11573,7400
+353,iron ni-resist type 4 (cast),37.656,10.1,502,11828,7400
+354,iron ni-resist types 1 and 2 (cast),39.748,11.8,460,11556,7300
+355,iron ni-tensyliron (cast heat treat),46.024,13.9,460,12349,7200
+356,iron nodular cast ferritic base,37.656,11.4,460,11170,7200
+357,iron nodular cast pearlitic base,37.656,11.4,460,11170,7200
+358,iron oxide - hematite (Fe2O3),12.552,3.82,628,6425,5240
+359,iron oxide - magnatite (FeO.Fe2O3),5.021,1.48,653,4128,5200
+360,iron sulfide (FeS2) (single crystal),37.907,13.6,557,10270,5000
+361,isooctane,0.1,0.0688,2100,381.2,692
+362,kaolin brick,0.084,0.36,774,139,300
+363,kaolin brick,0.251,0.75,774,289,430
+364,kerosene,0.13,0.3476,2000,220.5,820
+365,krypton (gas),0.009,99.9,247,1,0.3733
+366,kyanite - aluminum silicate (Al2O3.SiO2) (tricl crystal),17.322,6.16,770,6977,3650
+367,lanthanum,13.807,11.6,193,4059,6200
+368,lanthanum boride (LaB6) (99.5 pc dense),47.698,16.5,628,11735,4600
+369,lawrencium,12.552,8.34,126,4348,12000
+370,lead,34.309,23.3,130,7107,11350
+371,lead (liquid),16.318,10.2,151,5104,10600
+372,lead alloy (Pb39.2 Sn60.8) (solder),50.208,30,197,9160,8500
+373,lead alloy (Pb50 Sn50) (solder),46.024,24.3,213,9344,8890
+374,lead alloy (Pb60 Sn40) (solder),47.279,22.3,230,10004,9200
+375,lead alloy (solder) (Sn37.5 Pb37.5 In25),56.902,27.5,239,10860,8690
+376,lead antimonial (Pb Sb 4-6) (hard),29.706,20.2,134,6603,10960
+377,lead antimonial (Pb Sb 8-9),26.987,18.8,134,6218,10700
+378,lead glass,1.13,0.74,502,1313,3040
+379,lead oxide (PbO) (yellow),2.929,1.79,205,2192,8000
+380,lead telluride (PbTe) (polyxtal),2.343,1.91,151,1697,8160
+381,lead telluride (pbte) (single crystal),2.092,1.7,151,1603,8160
+382,light mineral oil,0.129,0.08,1717,441,880
+383,limestone (dense dry),1.674,0.73,921,1962,2500
+384,limestone (H2O 15.3),0.92,0.61,921,1182,1650
+385,lithium,71.128,38.2,3515,11511,530
+386,lithium (liquid),42.258,19.7,4226,9525,508
+387,lithium aluminum silicate (b-spodumene),1.046,0.27,1255,2017,3100
+388,lithium cobalt nickel oxide(46NiO.46CoO.8LiO),3.598,0.74,753,4197,6500
+389,lithium fluoride (LiF 96) (plastic bnd),10.042,2.5,1632,6349,2460
+390,lithium fluoride (LiF) (single crystal),11.088,2.57,1632,6912,2640
+391,lithium hydride (LiH),7.322,2.5,4184,4631,700
+392,lithium hydride (lih) (cast gas voids),12.97,4.43,4184,6163,700
+393,lithium manganese selenide (97mn.3li.-),2.803,1.32,385,2436,5500
+394,lithium nickel oxide (5LiO.95NiO),13.18,2.81,711,7866,6600
+395,lithium tetraborate (Li2O.2B2O3) (epoxy),1.757,0.73,1130,2061,2140
+396,lutetium,10.46,7.05,151,3939,9850
+397,lx-04 h.e. (hmx 85 viton a 15),0.448,0.23,1023,925,1870
+398,lx-07 h.e. (hmx 90 viton a 10),0.502,0.26,1049,992,1870
+399,lx-09 h.e. (hmx 93 dnpa 4.6 fefo 2.4),0.515,0.27,1056,1000,1840
+400,lx-10 h.e. (hmx 95 viton a 5),0.515,0.26,1056,1005,1860
+401,lx-o4-1 h.e. (hmx 85 viton a 15),0.387,0.18,1172,919,1865
+402,machinable glass ceramic (macor),1.46,0.73,790,2520,1704
+403,magnesite brick (MgO 87),3.849,1.82,837,2855,2530
+404,magnesite brick a (MgO 90) (14.5 p),4.937,1.92,837,3567,3080
+405,magnesite brick b (MgO 93) (22.6 p),4.812,2.08,837,3334,2760
+406,magnesite brick c (MgO 86) (17.8 p),3.682,1.51,837,2999,2920
+407,magnesite brick spall res (MgO 89),3.473,1.55,837,2785,2670
+408,magnesium,150.62,86.2,1004,16221,1740
+409,magnesium (liquid),83.68,39.8,1339,13263,1570
+410,magnesium alloy (Mg Ag2.5 Ce2 Zr0.6),112.97,64.5,962,14066,1820
+411,magnesium alloy 1959 (Mg Ce4.33),129.7,72.6,1004,15225,1780
+412,magnesium alloy 1960 (Mg Ce6.7),118.83,67.3,1004,14491,1760
+413,magnesium alloy 1961 (Mg Ce11.85),96.232,57.5,962,12694,1740
+414,magnesium alloy 1964 (Mg Ce5 Co2 Mn0.8),121.34,68.7,1004,14643,1760
+415,magnesium alloy 1992 (Mg Ce4.45 Co3),129.7,77.5,962,14737,1740
+416,magnesium alloy a3a (wrought),108.78,60,1025,14048,1770
+417,magnesium alloy a8(ac or st) (casting),83.68,45.1,1025,12460,1810
+418,magnesium alloy am100a (casting),58.576,31.6,1025,10425,1810
+419,magnesium alloy az31(x s) (wrought),83.68,48,983,12085,1775
+420,magnesium alloy az31b(p s) (wrought),83.68,47.1,1004,12195,1770
+421,magnesium alloy az61a(x) azm (wrought),75.312,40.8,1025,11788,1800
+422,magnesium alloy az63a (ac f) (casting),71.128,37.8,1025,11566,1835
+423,magnesium alloy az80a (x frgd) (wrought),54.392,31.4,962,9706,1800
+424,magnesium alloy az81a (t4) (casting),54.392,30.1,1004,9914,1800
+425,magnesium alloy az855(x) (wrought),79.496,43.1,1025,12111,1800
+426,magnesium alloy az91a b (dc) (casting),54.392,29.3,1025,10045,1810
+427,magnesium alloy az91c(ac) (casting),54.392,29.3,1025,10045,1810
+428,magnesium alloy az92a(ac) (casting),54.392,29.1,1025,10087,1825
+429,magnesium alloy bz33a(ac ah) (casting),100.42,53.5,1025,13725,1830
+430,magnesium alloy ek30a h812 (casting),104.6,57,1025,13853,1790
+431,magnesium alloy ek33a h811 (casting),104.6,55.8,1025,14007,1830
+432,magnesium alloy ek41a(t5 t6) (casting),100.42,54.1,1025,13649,1810
+433,magnesium alloy hk31a(h24) (casting),112.97,61.6,1025,14397,1790
+434,magnesium alloy hk31a(o) (casting),104.6,57,1025,13853,1790
+435,magnesium alloy hk31a(t6) (casting),92.048,50.2,1025,12996,1790
+436,magnesium alloy hm21a(o h24) (wrought),138.07,75.7,1025,15872,1780
+437,magnesium alloy hm31a (wrought),104.6,56.1,1025,13969,1820
+438,magnesium alloy hz32a(ac) zt1 (casting),104.6,55.8,1025,14007,1830
+439,magnesium alloy m1(ac) (casting),129.7,71.9,1025,15296,1760
+440,magnesium alloy m1(x s) (wrought),142.26,78.9,1025,16020,1760
+441,magnesium alloy m1a (wrought),131.8,73.1,1025,15420,1760
+442,magnesium alloy magnox a12(x) (wrought),117.15,65.3,1025,14496,1750
+443,magnesium alloy pe (wrought),108.78,60.3,1025,14009,1760
+444,magnesium alloy za(ac) (casting),146.44,81.6,1025,16207,1750
+445,magnesium alloy ze10a(o h24) (wrought),135.98,75.4,1025,15662,1760
+446,magnesium alloy ze41a(t5 ht) (casting),112.97,64.5,962,14066,1820
+447,magnesium alloy zh42 (casting),112.97,63.1,962,14220,1860
+448,magnesium alloy zh62a(ac) tz6 (casting),112.97,63.1,962,14220,1860
+449,magnesium alloy zk20a (wrought),125.52,68,1025,15218,1800
+450,magnesium alloy zk51a h807 (casting),110.88,60,1021,14315,1810
+451,magnesium alloy zk60a b zw6 (casting),117.15,61.2,1046,14975,1830
+452,magnesium alloy zre0 (ez30) (casting),100.42,54.4,1025,13612,1800
+453,magnesium alloy zre1(aa) (casting),100.42,54.4,1025,13612,1800
+454,magnesium alloy zty(x) (hk11) (wrought),121.34,71.6,962,14336,1760
+455,magnesium alloy zw1(x) (zk11) (wrought),133.89,72.6,1025,15717,1800
+456,magnesium alloy zw3(x) (zk31) (wrought),125.52,72.5,962,14745,1800
+457,magnesium aluminate (MgO.Al2O3) (100 d),15.062,5.15,812,6634,3600
+458,magnesium aluminate (MgO.Al2O3) (xtal),14.226,4.87,812,6447,3600
+459,magnesium oxide (MgO) (polyxtal 100 d),61.923,18.8,921,14285,3580
+460,magnesium oxide (MgO) (single crystal),69.036,21,921,15083,3580
+461,magnesium silicide (Mg2Si),7.908,4.8,837,3611,1970
+462,magnesium sulfate (MgSO4) (crystal),2.51,0.75,1255,2895,2660
+463,magnesium titanate porcelain,1.883,0.86,753,2028,2900
+464,mahogany wood (across grain),0.13,0.1,2301,401,540
+465,manganese,6.694,1.88,481,4882,7400
+466,manganese oxide (Mn3O4) (87 pc dense),4.184,1.59,628,3321,4200
+467,manganese oxide (MnO) (single xtal),10.042,3.09,603,5716,5400
+468,manganese selenide (97mnse.3lise),2.803,1.32,385,2436,5500
+469,manganese silicide (MnSi2),7.197,2.34,586,4700,5240
+470,manganese telluride (95mnte.5mnas),1.255,0.55,402,1695,5700
+471,manganese telluride (99mnte.nate),1.841,0.8,402,2053,5700
+472,manganin (Cu84 Ni4 Mn12),22.175,6.77,377,8524,8700
+473,marble (avg prop),2.51,1.06,879,2440,2700
+474,marble dielectric (CaCO3 99.99),3.766,1.59,879,2989,2700
+475,melamine cellulose filled (mst 95-205),0.314,0.13,1674,873,1450
+476,melamine (high dens high k),0.711,0.21,1674,1543,2000
+477,melamine (low dens low k),0.167,0.07,1674,626,1400
+478,melamine alpha cellulose filled,0.356,0.14,1674,945,1500
+479,melamine asbestos filled (mst 95-205),0.628,0.2,1674,1394,1850
+480,melamine fabric or flock filled,0.444,0.17,1674,1062,1520
+481,melamine glass fiber filled (mst 205),0.481,0.15,1674,1237,1900
+482,mendelevium,12.552,8.34,126,4348,12000
+483,mercury (liquid),8.368,4.49,138,3950,13500
+484,mercury chloride (HgCl2),1.297,0.84,285,1417,5440
+485,methane (CH4) (gas),0.034,21,2259,7,0.7167
+486,methanol,0.202,0.17,1470,488,801
+487,mica (single crystal) (a or b axes),4.184,1.79,837,3131,2800
+488,mica (single crystal) (c axis),0.711,0.3,837,1291,2800
+489,mica (single crystal) (synthetic) (98d),2.092,0.9,837,2210,2790
+490,mica brick (red or white) (avg prop),0.167,0.29,837,309,680
+491,mica insulating powder,0.121,0.44,837,183,330
+492,missouri fireclay brick,1.004,0.67,753,1230,2000
+493,mmh (monomethyl hydrazine),0.25,0.0969,2950,803.1,875
+494,mock h.e. 90010 (pbx-9404 mech mock),0.532,0.24,1255,1090,1780
+495,mock h.e. lm-04-0 h4-048-a294-3,1.004,0.61,962,1282,1700
+496,mock h.e. lm-04-0 h7-048-a522.1,0.527,0.28,1109,997,1700
+497,mock h.e. rm-04-bg (lx-04-1 mech mock),0.115,0.06,962,454,1870
+498,molybdenum,133.89,53.2,247,18363,10200
+499,molybdenum alloy (Mo Bal Fe 0.25),138.07,49,276,19719,10200
+500,molybdenum alloy (Mo70 W30),123.01,61.6,201,15669,9940
+501,molybdenum alloy (Mo99.5 Ti0.5),117.15,45,255,17463,10200
+502,molybdenum beryllide (MoBe12),41.84,13.2,1088,11521,2916
+503,molybdenum carbide (Mo2C),20.92,6.69,347,8086,9000
+504,molybdenum nitride (Mo2N),17.154,6.93,310,6518,8000
+505,molybdenum selenide (MoSe2),2.301,1.53,301,1862,5000
+506,molybdenum silicide (MoSi2),45.187,17.3,418,10879,6260
+507,molybdenum telluride (mote2),2.008,1.62,226,1580,5500
+508,mtbe (methyl tert-butyl ether),0.12,0.0776,2090,430.8,740
+509,mulberry (U90 Nb7.5 Zr2.5),10.46,4.33,146,5027,16500
+510,mullite (3Al2O3.2SiO2) (100 pc dense),6.276,2.56,766,3921,3200
+511,n-dodecane,0.14,0.0809,2220,492.2,780
+512,neodymium,12.97,9.43,197,4225,7000
+513,neodymium boride (NdB6) (97.3 pc dense),47.279,15.7,628,11934,4800
+514,neon (gas),0.049,52.4,1029,7,0.8999
+515,neoprene rubber,0.192,0.07,2176,724,1250
+516,neptunium,12.552,5.56,126,5325,18000
+517,n-heptane,0.13,0.0856,2220,444.3,684
+518,n-hexadecane (cetane),0.15,0.0878,2210,506.2,773
+519,n-hexane,0.12,0.0807,2260,422.4,658
+520,nickel,87.864,22.3,444,18623,8900
+521,nickel alloy (Ni35 Cr20 Fe45),12.97,3.55,460,6889,7950
+522,nickel alloy (Ni60 Cr16 Fe24),13.389,3.53,460,7130,8250
+523,nickel alloy (Ni62 Cr12 Fe26),13.389,3.55,460,7108,8200
+524,nickel alloy (Ni99.5) low c 220 225,60.668,14.8,460,15754,8890
+525,nickel alloy 330 (Ni99.55) (annealed),60.668,14.9,460,15719,8850
+526,nickel alloy a (Ni99.4) (annealed),66.944,17.1,439,16169,8890
+527,nickel alloy calite n,13.807,3.65,460,7227,8220
+528,nickel alloy chlorimet 3,12.552,3.65,385,6572,8940
+529,nickel alloy constantan (Ni45 Cu55),22.175,6.28,398,8852,8890
+530,nickel alloy corrosist,20.92,5.83,460,8666,7800
+531,nickel alloy d and e,44.769,11.1,460,13465,8800
+532,nickel alloy duranickel (and -r) (hard),19.665,5.47,435,8407,8260
+533,nickel alloy duranickel (and -r) (soft),18.41,5.12,435,8134,8260
+534,nickel alloy durimet 20 (cast),20.92,5.74,460,8732,7920
+535,nickel alloy hastelloy a (annealed),9.623,2.78,393,5771,8800
+536,nickel alloy hastelloy b,10.46,2.97,381,6066,9240
+537,nickel alloy hastelloy c,10.46,3.04,385,5999,8940
+538,nickel alloy hastelloy d,20.92,5.94,452,8587,7800
+539,nickel alloy hastelloy n and inor-8,10.753,3.08,398,6130,8790
+540,nickel alloy hastelloy r-235,9.205,2.55,439,5765,8220
+541,nickel alloy hastelloy x,9.832,2.8,427,5877,8230
+542,nickel alloy hy mu 80,33.388,8.53,448,11430,8740
+543,nickel alloy illium g,12.134,3.22,439,6763,8580
+544,nickel alloy illium r,12.97,3.39,460,7043,8310
+545,nickel alloy incoloy,12.134,3.35,452,6627,8010
+546,nickel alloy incoloy 901,13.389,3.89,418,6790,8230
+547,nickel alloy inconel (cast),10.46,2.79,452,6264,8300
+548,nickel alloy inconel (wrought annld),13.305,3.48,452,7136,8470
+549,nickel alloy inconel 600 (annealed),15.062,3.89,456,7633,8480
+550,nickel alloy inconel 700,12.552,3.34,460,6870,8170
+551,nickel alloy inconel 702 (annealed),12.552,3.26,460,6953,8370
+552,nickel alloy inconel 713c (cast),12.134,3.43,448,6555,7910
+553,nickel alloy inconel w,14.728,4.03,439,7333,8310
+554,nickel alloy inconel x and x-750,14.226,3.91,439,7193,8280
+555,nickel alloy k-42b,12.552,3.57,418,6642,8400
+556,nickel alloy m-252 (ge j-1500),9.623,2.67,439,5891,8210
+557,nickel alloy monel h (as cast),20.92,5.62,439,8828,8480
+558,nickel alloy monel kr (annealed),18.828,5.07,439,8360,8450
+559,nickel alloy monel (cold-drawn),16.192,4.25,431,7852,8835
+560,nickel alloy monel (hot-rolled),22.677,5.96,431,9293,8835
+561,nickel alloy monel 400,25.941,6.69,439,10031,8830
+562,nickel alloy monel 403 (hot-rolled),24.811,6.38,439,9827,8860
+563,nickel alloy monel h (cast),26.778,7.19,439,9988,8480
+564,nickel alloy monel k (annealed),17.74,4.91,427,8006,8465
+565,nickel alloy monel r (hot-rolled),25.941,6.68,439,10037,8840
+566,nickel alloy monel s (cast),19.665,5.36,439,8498,8360
+567,nickel alloy monel weldable alloy,26.778,7.06,439,10076,8630
+568,nickel alloy multimet (n-155) (low c),16.318,4.57,435,7637,8215
+569,nickel alloy multimet (n-155) (wrought),12.97,3.63,435,6809,8215
+570,nickel alloy nichrome v (Ni80 Cr20),13.389,3.72,431,6946,8360
+571,nickel alloy nimonic 100,11.297,3.07,460,6449,8000
+572,nickel alloy nimonic 105,10.878,2.96,460,6324,7990
+573,nickel alloy nimonic 75,12.97,3.38,460,7060,8350
+574,nickel alloy nimonic 80,11.715,3.09,460,6669,8250
+575,nickel alloy nimonic 80a,11.715,3.43,418,6328,8170
+576,nickel alloy nimonic 90,12.552,3.53,431,6681,8250
+577,nickel alloy nimonic 95,11.255,3.03,460,6461,8060
+578,nickel alloy nimonic ds,14.226,3.91,460,7196,7910
+579,nickel alloy permanickel,57.739,14.9,444,14969,8750
+580,nickel alloy rene 41,10.334,2.97,423,5995,8230
+581,nickel alloy udimet 500 (wrought),10.878,3.08,439,6202,8050
+582,nickel alloy waspalloy,11.297,3.29,418,6226,8200
+583,nickel iron alloy invar (Fe64 Ni36),10.878,2.64,515,6692,8000
+584,nickel oxide (NiO) (polyxtal 68-74 d),9.832,3.26,603,5442,5000
+585,nickel oxide (nio) (polyxtal 88-100 d),12.97,3.36,603,7072,6400
+586,nickel oxide (NiO) (single xtal),46.024,11.2,603,13742,6810
+587,nickel zinc ferrite (Ni(Zn)O.Fe2O3),3.724,1.31,607,3259,4700
+588,niobium,50.208,21.9,268,10735,8570
+589,niobium alloy (Nb61 Ta28 W10 Zr0.5),44.769,20.8,201,9808,10700
+590,niobium alloy (Nb80 W15 Mo5),50.208,21.2,247,10909,9600
+591,niobium alloy (Nb85 Ti10 Zr5),29.288,14.8,255,7621,7770
+592,niobium alloy (Nb95 Ta5),44.769,19.8,251,10056,9000
+593,niobium beryllide (Nb2Be17),31.38,10.7,921,9614,3200
+594,niobium beryllide (NbBe12) (hp 93-97d),23.012,7.44,1105,8438,2800
+595,niobium boride (NbB2) (pressed sntrd),16.736,5.88,418,6900,6800
+596,niobium carbide (NbC),33.472,12.4,356,9511,7600
+597,niobium nitride (Nb2N),7.95,2.97,322,4614,8310
+598,niobium nitride (NbN),4.184,1.25,402,3748,8360
+599,niobium silicide (NbSi2),41.84,17.2,460,10092,5290
+600,nitric acid,0.29,0.096,2000,935.9,1510
+601,nitrile rubber,0.243,0.12,1966,691,1000
+602,nitrocellulose h.e. (12.7 n),0.23,0.12,1255,676,1580
+603,nitrogen (gas),0.026,19.6,1042,6,1.251
+604,nobelium,12.552,8.34,126,4348,12000
+605,norway pine wood (across grain),0.151,0.12,2301,437,550
+606,nylon 6 11 66 610 (polycaprolactam),0.243,0.14,1527,644,1120
+607,nylon glass filled,0.209,0.11,1339,626,1400
+608,oak red black wood (across grain),0.146,0.1,2385,462,610
+609,oak white live wood (across grain),0.209,0.11,2385,642,825
+610,obsidian glass,1.372,0.76,753,1575,2400
+611,octane,0.15,0.1016,2100,470.6,703
+612,oil (mineral transformer oil),0.126,0.07,1860,454,880
+613,oil (motor oil 10W30),0.158,0.09,1990,519,856
+614,olive oil,0.171,0.09,1970,557,920
+615,oregon pine wood (across grain),0.113,0.1,2301,364,510
+616,orthoclase (K2O.Al2O3.6SiO2) (crystal),4.184,1.28,1255,3695,2600
+617,osmium,85.772,29.3,130,15846,22570
+618,oxygen (gas),0.026,23.2,795,5,1.429
+619,palladium,76.149,27.5,243,14515,11400
+620,parafin oil,0.151,0.09,1970,488,800
+621,particle board (high density),0.17,0.1381,1300,1000,470
+622,particle board (low density),0.078,0.1017,1300,590,240
+623,pbx-9011 h.e. (hmx 90 estane 10),0.431,0.21,1172,946,1770
+624,pbx-9404-03 h.e. (hmx 94 nc 3 bind 3),0.427,0.23,1004,887,1836
+625,pentane,0.14,0.1026,2180,437.1,626
+626,petn h.e.,0.209,0.07,1674,785,1760
+627,phenol-formaldehyde + phenol-furfural,0.209,0.1,1674,670,1280
+628,phenolic cast asbestos filler,0.351,0.17,1255,866,1700
+629,phenolic cast no filler,0.167,0.09,1464,567,1310
+630,phenolic molded (high density k),0.674,0.18,1255,1593,3000
+631,phenolic molded (low density k),0.172,0.11,1255,517,1240
+632,"phenolic resin pressed (types 40, 50)",0.377,0.22,1255,808,1380
+633,phenoxy,0.176,0.08,1674,606,1250
+634,phosphorus (white),4.184,3.1,741,2375,1820
+635,pine wood (with grain),0.343,0.27,2301,659,550
+636,plaster building (molded dry),0.431,0.32,1088,766,1250
+637,plastic laminate various types,0.209,0.09,1255,687,1800
+638,platinum,69.036,24.1,134,14065,21400
+639,plutonium,8.201,3.19,134,4592,19200
+640,plutonium alloy (delta phase),7.071,3.35,134,3862,15750
+641,plutonium carbide (PuC) (arcm or cast),7.113,2.86,184,4204,13500
+642,plutonium nitride (PuN),13.807,5.15,188,6087,14250
+643,plutonium phosphide (PuP) (90 pc dense),5.439,2.39,230,3518,9890
+644,plutonium sulfide,9.623,3.95,230,4842,10590
+645,polonium,1.674,1.48,121,1376,9320
+646,polyallomer,0.126,0.07,2092,486,900
+647,polycarbonate various fillers,0.192,0.09,1674,660,1350
+648,polyester glass fiber reinforced tac,0.176,0.13,1130,494,1230
+649,polyethylene (high density),0.502,0.23,2301,1048,950
+650,polyethylene (low density),0.331,0.17,2092,798,920
+651,polyethylene (medium density),0.414,0.19,2301,944,935
+652,polyimide h-film kapton,1.13,0.7,1130,1346,1420
+653,polymethyl methacrylate (PMMA),0.209,0.12,1464,601,1180
+654,polypropylene copolymer,0.126,0.06,2343,517,910
+655,polypropylene filled,0.18,0.07,1925,663,1270
+656,polypropylene moplin,0.134,0.08,1925,484,910
+657,polystyrene prefoamed rigid dow q103,0.042,0.93,1130,43,40
+658,polystyrene (modified),0.084,0.06,1339,348,1080
+659,polystyrene foam,0.026,0.5,1130,37,46
+660,polystyrene foamed-in-place (rigid),0.035,0.31,1130,63,100
+661,polysulfone,0.259,0.17,1255,638,1250
+662,polyurethane foam flexible,0.042,0.4,1757,66,60
+663,polyurethane foamed-in-place (rigid),0.032,0.49,1674,47,40
+664,polyurethane rubber elastomer l-100,0.293,0.14,1674,783,1250
+665,polyvinyl alcohol,0.795,0.51,1255,1117,1250
+666,polyvinyl butyral,0.084,0.05,1674,393,1100
+667,polyvinyl carbazole,0.155,0.1,1297,487,1180
+668,polyvinyl chloride flexible,0.167,0.07,1674,648,1500
+669,polyvinyl chloride acytate flexible,0.167,0.08,1674,580,1200
+670,polyvinyl chloride acytate rigid,0.167,0.12,1004,485,1400
+671,polyvinyl chloride rigid,0.251,0.18,1004,594,1400
+672,polyvinyl tpx-r,0.167,0.09,2176,550,830
+673,polyvinylidene chloride,0.126,0.06,1339,535,1700
+674,polyvinylidene chloride film,0.126,0.06,1339,531,1680
+675,polyvinylidene fluoride (kynar),0.126,0.05,1381,552,1760
+676,porcelain 576,11.297,4.41,753,5378,3400
+677,porcelain ordinary,2.092,0.82,753,2314,3400
+678,potassium,97.069,150,753,7938,862
+679,potassium (liquid),62.342,92.7,820,6475,820
+680,potassium alum (K2SO4.Al2(SO4)3.24H2O),2.092,0.75,1548,2414,1800
+681,potassium aluminum silicate (orthoclase),4.184,1.28,1255,3695,2600
+682,potassium bromide (KBr 50),2.51,2,531,1774,2360
+683,potassium bromide (KBr 75 KCl 25),2.092,1.72,477,1595,2550
+684,potassium bromide (KBr 90 KCl 10),2.887,2.42,448,1854,2660
+685,potassium bromide (KBr),3.807,3.18,435,2134,2750
+686,potassium bromide (KBr) (single xtal),4.812,4.02,435,2399,2750
+687,potassium chloride (KCl 50),2.51,2,531,1774,2360
+688,potassium chloride (KCl 50),7.113,4.46,770,3367,2070
+689,potassium chloride (KCl 75 KBr 25),3.305,2.56,598,2067,2160
+690,potassium chloride (KCl 90 KBr 10),5.021,3.78,649,2584,2050
+691,potassium chloride (KCl),8.368,6.16,686,3372,1980
+692,potassium chloride (KCl) (sylvite xtal),6.987,5.12,686,3089,1990
+693,potassium chromate (K2O.2CrO3) (m axis),1.715,0.7,921,2057,2680
+694,potassium chromate (K2O.2CrO3) (s axis),2.092,0.85,921,2272,2680
+695,potassium ferrocyanide (K4Fe(Cn)6.3H2O),1.715,0.82,1130,1894,1850
+696,potassium fluoride (KG|F),7.113,3.33,862,3899,2480
+697,potassium iodide (KI),2.887,3.02,305,1661,3130
+698,potassium nitrate (KNO3) (pr 8000 kb),2.092,1.19,837,1921,2109
+699,praseodymium,11.715,8.76,197,3957,6800
+700,praseodymium boride (PrB6) (95 pc dens),41.003,14.2,628,10880,4600
+701,promethium,12.552,9.26,188,4125,7200
+702,propane,0.13,0.097,2140,417.4,581
+703,propylene (propene),0.11,0.0817,2200,384.8,612
+704,propylene glycol,0.2,0.0691,2790,760.8,1036
+705,protactinium,12.552,7.11,115,4707,15400
+706,pyrex glass,1.13,0.7,728,1351,2220
+707,pyroceram 9606 (ceramic glass),3.975,1.95,782,2844,2600
+708,pyroceram 9608 (glass ceramic),2.05,1.02,808,2034,2500
+709,pyrophyllite (parallel to bedding),4.77,2.04,837,3343,2800
+710,pyrophyllite (perpend. to bedding),2.427,1.04,837,2385,2800
+711,quartz crystal (silicon oxide) a axis (SiO2),6.485,3.25,753,3598,2650
+712,quartz crystal c axis (SiO2),11.715,5.87,753,4835,2650
+713,quartz flour fine (dry),0.167,0.26,745,331,880
+714,quartz flour fine (H2O 21 pc),2.218,0.83,1464,2431,1820
+715,quartz powder coarse (H2O 24),1.13,0.38,1590,1833,1870
+716,r12 (dichlorofluoromethane),0.07,0.0531,886,303.8,1488
+717,r134a (tetrafluoroethane),0.1,0.0566,1280,420.3,1380
+718,r410a,0.17,0.0921,1368,560.2,1350
+719,radium,12.552,22.1,113,2668,5000
+720,radon gas,0.004,4.59,94,2,9.73
+721,rattan,4.184,0.52,540,5820,15000
+722,rhenium,60.668,20.9,138,13264,21000
+723,rhodium,150.62,50.1,243,21291,12400
+724,rock or stone (average properties),1.757,0.81,837,1955,2600
+725,rubber dielectric mix,0.209,0.09,2092,694,1100
+726,rubber high k,0.293,0.13,2092,821,1100
+727,rubber natural,0.138,0.07,2092,518,930
+728,rubber natural foam,0.042,0.2,2092,94,100
+729,rubidium,50.208,88.9,377,5326,1500
+730,rubidium (liquid),29.288,51.6,385,4078,1475
+731,rubidium chloride (RbCl),2.092,1.73,431,1589,2800
+732,rubidium iodide (RbI),3.305,3.97,234,1658,3550
+733,ruthenium,104.6,36.6,234,17291,12200
+734,samarium,12.552,9.3,180,4115,7500
+735,samarium boride (SmB6) (96.8 pc dense),13.807,4.49,628,6516,4900
+736,samarium sulfide (sms),3.766,2.14,293,2575,6010
+737,sand (dry) (avg prop),0.335,0.28,753,635,1600
+738,sand northway (H2O 4-10) (avg prop),0.837,0.59,837,1091,1700
+739,sandstone (avg prop),2.51,1.13,962,2357,2300
+740,sandstone (high density),4.184,1.67,962,3235,2600
+741,sandstone (low density),1.841,0.87,962,1974,2200
+742,sapphire - aluminum oxide (Al2O3) (polyxtal 100 d),38.493,12.4,778,10919,3980
+743,sapphire - aluminum oxide (Al2O3) (single xtal),43.932,14.2,778,11665,3980
+744,scandium,12.552,7.58,552,4560,3000
+745,selenium (grey),0.753,0.49,322,1078,4790
+746,shale (avg prop),1.674,0.83,837,1833,2400
+747,siliceous brick (SiO2 89 Al2O3 9),0.937,0.65,753,1167,1930
+748,siliceous fireclay brick (23 p),1.088,0.72,753,1280,2000
+749,silicon,125.52,76.6,703,14338,2330
+750,silicon boride (SiB4),9.832,3.82,1046,5030,2460
+751,silicon carbide (SiC) (brick Al2O3 1.7),11.715,6.89,678,4464,2510
+752,silicon carbide (SiC) (carbofrax brick),21.757,11.9,678,6310,2700
+753,silicon carbide (SiC) (foam in vacuum),0.105,0.34,678,181,460
+754,silicon carbide (SiC) (frit bnd brick),46.024,25.2,678,9178,2700
+755,silicon carbide (SiC) (kt grade),179.91,85.6,678,19443,3100
+756,silicon carbide (SiC) (nitride bonded),41.84,23.2,678,8685,2660
+757,silicon carbide (SiC) (powder in air),0.251,0.23,678,519,1585
+758,silicon carbide (SiC) (powder),0.69,0.64,678,861,1585
+759,silicon carbide (SiC) (refractory d-30),41.84,22.9,678,8750,2700
+760,silicon carbide (SiC) (rextal 65-70d),18.41,13.1,678,5082,2070
+761,silicon carbide (SiC) (rextal 80-100d),51.882,26.4,678,10099,2900
+762,silicon carbide (SiC) (single xtal),87.864,40.4,678,13826,3210
+763,silicon carbide (SiC) (single xtal),489.53,225,678,32636,3210
+764,silicon carbide (SiC) (slf bnd he atm),167.36,79.7,678,18752,3100
+765,silicon carbide + si (SiC 76 Si 24),60.668,29,837,11266,2500
+766,silicon nitride (Si3N4) (70 pc dense),1.548,1.02,690,1533,2200
+767,silicon nitride (Si3N4) (85 pc dense),7.95,4.11,690,3920,2800
+768,silicon oxide (SiO2) (foam 1 atm air),0.055,0.46,745,81,160
+769,silicon oxide (SiO2) (quartz c axis),11.715,5.87,753,4835,2650
+770,silicon telluride (site),6.276,4.78,335,2870,3920
+771,silicone molded various fillers,0.167,0.09,1046,561,1800
+772,silicone DMS-10,0.11,0.06,1800,434,950
+773,silicone foam flexible (lrl),0.167,0.5,1339,237,250
+774,silicone foam rigid various,0.084,0.21,1339,183,300
+775,silicone rubber (medium k),0.335,0.21,1255,739,1300
+776,silicone rubber (rtv 521 and 093-009),0.272,0.16,1255,691,1400
+777,silicone rubber high k,0.753,0.46,1255,1108,1300
+778,silicone rubber low k,0.138,0.08,1255,475,1300
+779,sillimanite brick (22 pc porosity),1.464,0.89,711,1551,2310
+780,silver,426.77,172,236,32520,10500
+781,silver (liquid),251.04,93.5,289,25962,9300
+782,silver alloys sterling and coin,359.82,137,251,30795,10500
+783,silver antimony telluride (SnTe 25 pc),0.983,0.72,209,1156,6500
+784,silver chloride (AgCl) (single crystal),1.134,0.57,356,1497,5560
+785,silver selenide (Ag2Se),0.837,0.37,280,1370,8000
+786,slate (avg prop),1.883,0.82,837,2085,2760
+787,snow (fresh),0.105,0.5,2092,148,100
+788,snow (packed),0.469,0.41,2092,734,550
+789,soda plate glass,1.213,0.65,753,1511,2500
+790,soda-lime glass,1.339,0.77,753,1523,2300
+791,sodium,133.89,114,1213,12551,970
+792,sodium (liquid),84.517,65.8,1381,10419,930
+793,sodium bromide (NaBr),2.51,1.54,510,2026,3203
+794,sodium chlorate (NaClO3) (crystal),1.13,0.49,921,1609,2490
+795,sodium chloride (NaCl 50),7.113,4.46,770,3367,2070
+796,sodium chloride (NaCl) (clear crystal),8.159,4.33,870,3921,2165
+797,sodium chloride (NaCl) (opaque impure),5.523,2.93,870,3226,2165
+798,sodium fluoride (NaF),10.502,3.69,1113,5468,2558
+799,soil (av props),0.837,0.62,1046,1067,1300
+800,soil clay (wet),1.506,0.34,2929,2572,1500
+801,soil loam (dry) (avg prop),0.251,0.25,837,502,1200
+802,soil loam (H2O 4-27 pc),0.418,0.25,1046,837,1600
+803,soil sandy (H2O 8),0.586,0.33,1004,1014,1750
+804,soil sandy dry,0.264,0.2,795,588,1650
+805,solder - tin alloy (Pb39.2 Sn60.8),50.208,30,197,9160,8500
+806,solder (Pb50 Sn50),46.024,24.3,213,9344,8890
+807,sp-1 polyimide resin (vespel),0.35,0.25,1130,1430,752
+808,spinel (MgO.Al2O3) (single crystal),14.226,4.87,812,6447,3600
+809,spruce wood (across grain),0.126,0.24,1255,254,410
+810,spruce wood (with grain),0.23,0.45,1255,344,410
+811,steam (H2O) (gas) (1 atm),0.023,19.9,1966,5,0.598
+812,steatite - magnesium silicate (MgO.SiO2) (commercial grades),3.347,1.33,837,2899,3000
+813,steel stainless 446,22.928,6.56,460,8955,7600
+814,steel stainless cf (cast),16.108,4.14,502,7917,7750
+815,steel alloy 8620 (cast),46.024,12.8,460,12878,7830
+816,steel alloy and mild (4130 4340),41.84,10.8,502,12760,7750
+817,steel carbon type 1020 (0.2 - 0.6 c),71.128,19.7,460,16040,7860
+818,steel free cutting eutectoid,46.024,12.8,460,12878,7830
+819,steel high speed (m1 m10 m-2 ti),35.564,9.42,460,11585,8200
+820,steel multimet (n-155) (wrought),12.97,3.63,435,6809,8215
+821,steel stainless (Cr 12-13 Ni 0-3),23.43,7.01,431,8847,7750
+822,steel stainless (Cr 16-26 Ni 8-36),14.644,3.65,502,7670,8000
+823,steel stainless 17-4ph,14.644,5.65,335,6163,7750
+824,steel stainless 17-7ph,16.736,6.58,335,6525,7600
+825,steel stainless 19-9dl,13.389,3.42,502,7241,7800
+826,steel stainless 201 and 202,16.318,4.22,502,7943,7700
+827,steel stainless 304,14.644,3.68,502,7631,7920
+828,steel stainless 316,13.53,3.598,470,7230,8230
+829,steel stainless 321 and 347,13.807,3.79,460,7094,7920
+830,steel stainless 430 430f and 431,16.736,4.69,460,7726,7750
+831,steel stainless 501 and 502,37.656,10.5,460,11626,7800
+832,steel stainless ca15 ca40 (cast),25.104,7.17,460,9376,7610
+833,steel stainless cb30 cc50 (cast),21.757,5.76,502,9070,7530
+834,steel stainless ck ch hi (cast),14.226,3.67,502,7431,7730
+835,steel stainless cn-7m (cast),20.92,5.65,460,8798,8040
+836,steel stainless ha (cast),29.288,7.56,502,10655,7720
+837,steel stainless hc hd (cast),30.962,8.17,502,10834,7550
+838,steel stainless he (cast),17.154,3.81,586,8785,7680
+839,steel stainless hf (cast),23.012,5.91,502,9463,7750
+840,steel stainless hh hl hk (cast),18.828,4.85,502,8548,7730
+841,steel stainless ht (cast),19.665,5.37,460,8487,7960
+842,steel stainless hu (cast),15.481,4.19,460,7564,8030
+843,steel stainless hw (cast),13.389,3.57,460,7086,8150
+844,steel stainless series 300,14.644,3.65,502,7670,8000
+845,steel stainless series 400,23.43,7.01,431,8847,7750
+846,steel ultra high strength type 300-m,57.739,16.5,448,14236,7840
+847,strontium,83.68,107,301,8095,2600
+848,strontium sulfate (SrSO4) (crystal),1.799,0.78,586,2043,3960
+849,strontium titanate (SrO.TiO2) (100 d),5.858,2.14,536,4004,5110
+850,strontium titanate (SrO.TiO2) (80 d),2.594,1.21,536,2357,4000
+851,strontium titanate + co (co 10),4.602,1.67,502,3565,5500
+852,strontium titanate + co (Co 20),6.276,2.16,502,4275,5800
+853,strontium titanate + co (co 30),6.694,2.15,502,4565,6200
+854,strontium titanate + co (co 40),10.46,3.16,502,5888,6600
+855,styrene-butadiene rubber + carbon black,0.243,0.14,1757,653,1000
+856,sulfur,0.276,0.19,711,627,2000
+857,sulfur dioxide (SO2) (gas),0.009,5.08,636,4,2.927
+858,sulfuric acid,0.5,0.1941,1400,1134.9,1840
+859,talc,2.971,1.31,816,2600,2790
+860,tantalum,71.128,31,138,12769,16600
+861,tantalum alloy (Ta62 Nb30 V7.5),27.196,20.1,117,6067,11550
+862,tantalum alloy (Ta89 W9 HF2),40.585,26,92,7958,16950
+863,tantalum alloy (Ta90 W10),54.392,24,134,11114,16960
+864,tantalum alloy (Ta98 Cu0.7 Zr0.7),41.84,18.2,138,9811,16660
+865,tantalum alloy (Ta99.5 Nb0.5),45.187,19.8,138,10147,16500
+866,tantalum antimonide (TaSb),18.828,8.03,167,6643,14000
+867,tantalum beryllide (ta2be17),29.288,6.67,879,11343,5000
+868,tantalum beryllide (TaBe12) (hp),41.84,13.2,774,11523,4100
+869,tantalum boride (TaB),117.15,46.3,209,17220,12100
+870,tantalum boride (TaB2),86.19,31.8,226,15285,12000
+871,tantalum carbide (TaC),22.175,8.32,190,7688,14000
+872,tantalum carbide + wc cermet k601,66.944,20.9,209,14638,15300
+873,tantalum nitride (Ta2N),10.46,5.26,126,4563,15860
+874,tantalum nitride (tan),7.95,2.7,205,4838,14360
+875,tantalum silicide (TaSi2),37.028,13.4,314,10129,8830
+876,tatb h.e. (triamino-trinitro-benzene),0.799,0.41,1047,1254,1880
+877,teak wood (across grain),0.142,0.12,2301,420,540
+878,teak wood (across grain),0.172,0.12,2301,503,640
+879,technicium,12.552,4.5,243,5919,11500
+880,teflon,0.251,0.12,1004,740,2170
+881,teflon reinforced,0.414,0.21,975,896,1990
+882,tellurium,3.347,2.67,201,2048,6240
+883,terbium,8.368,5.56,182,3549,8250
+884,terbium boride (TbB6) (94.3 pc dense),20.083,6.4,628,7939,5000
+885,tetradecafluorohexane,0.057,0.0308,1100,324.8,1680
+886,tetryl h.e.,0.286,0.13,1255,783,1710
+887,thallium,38.911,25.3,130,7733,11850
+888,thallium (liquid),24.686,14.5,151,6479,11290
+889,thorium,38.493,28.1,117,7259,11680
+890,thorium boride (ThB4),15.899,3.81,494,8144,8450
+891,thorium boride (ThB6),43.095,10.1,628,13562,6800
+892,thorium carbide (ThC) (80 pc dense),8.786,6.03,172,3579,8500
+893,thorium carbide (ThC2) (69 pc dense),24.476,16.7,222,5986,6600
+894,thorium oxide (ThO2) (96-100 pc dense),11.715,5.21,234,5133,9600
+895,thulium,8.368,5.63,160,3526,9300
+896,tin,61.086,37,226,10044,7310
+897,tin (liquid),33.472,20.1,243,7460,6850
+898,tin oxide (SnO2) (93-95 pc dense),31.38,16.5,343,7737,5560
+899,tin telluride (snte 60 agsbte2 40),1.778,1.31,209,1555,6500
+900,tin telluride (snte 80 agsbte2 20),2.594,1.91,209,1878,6500
+901,titanium,20.92,8.89,523,7017,4500
+902,titanium alloy (Ti Bal Al4 Mo3 V1),7.531,3.2,523,4210,4500
+903,titanium alloy (Ti Bal Al4 Zr3.5),7.531,3.2,523,4210,4500
+904,titanium alloy (Ti Bal Al5 Sn2.5),7.113,2.92,544,4163,4480
+905,titanium alloy (Ti Bal Al6 V4),7.113,3.06,523,4069,4450
+906,titanium alloy (Ti Bal Al8 Mo1 v1),5.858,2.46,544,3731,4370
+907,titanium alloy (Ti Bal Cr3.4 Mo2.1),16.318,6.78,523,6266,4600
+908,titanium alloy (Ti Bal Sn4.8 Al4.5),7.531,3.2,523,4210,4500
+909,titanium alloy (Ti Bal Al2 Mn2),9.623,3.93,544,4853,4500
+910,titanium alloy (Ti Bal Al4 Cu2 Zr2),9.205,3.76,544,4746,4500
+911,titanium alloy (Ti Bal Al4 Cu4 Sn2),7.95,3.38,523,4325,4500
+912,titanium alloy (Ti Bal Al4 V1 Mo0.6),8.368,3.42,544,4526,4500
+913,titanium alloy (Ti Bal Al4 V2 Mo1),8.368,3.42,544,4526,4500
+914,titanium alloy (Ti Bal Al4 V3 Mo1.5),7.95,3.25,544,4411,4500
+915,titanium alloy (Ti Bal Al5 Sn5 Zr5),7.95,3.44,502,4285,4600
+916,titanium alloy (Ti Bal Sn5.5 Al2),9.205,3.83,523,4706,4600
+917,titanium alloy (Ti Bal V14 Cr10 Al4),7.95,2.96,527,4623,5100
+918,titanium alloy (Ti Bal V15 Al2.8),8.368,3.31,527,4602,4800
+919,titanium alloy (Ti Bal Zr3 Al2),9.958,4.14,523,4895,4600
+920,titanium alloy c100m (rc130a) (mn7.9),10.878,4.54,523,5105,4580
+921,titanium alloy hylite 40,7.531,3.06,544,4303,4520
+922,titanium alloy hylite 50 (imi550),7.531,3.13,523,4257,4600
+923,titanium alloy hylite 51 (imi551),6.694,2.78,523,4013,4600
+924,titanium alloy hylite 55 (imi),7.531,3.03,523,4330,4760
+925,titanium alloy hylite 60 (imi),7.531,3.1,523,4280,4650
+926,titanium alloy hylite 65 (imi),7.531,3.08,523,4293,4680
+927,titanium alloy imi 679 (sn11 zr5 al2),6.694,2.87,481,3949,4840
+928,titanium alloy imi 680 (Sn11 Mo4 Al2),7.113,3.05,481,4070,4840
+929,titanium alloy ti140a (Fe2 Cr2 Mo2),11.715,4.87,523,5309,4600
+930,titanium alloy ti150a (Cr2.7 Fe1.4),15.899,6.36,544,6307,4600
+931,titanium alloy ti155a (Al5 Fe2 Cr1 Mo1),8.368,3.42,544,4526,4500
+932,titanium beryllide (tibe12) (hp 95d),23.849,7.62,1423,8641,2200
+933,titanium boride (TiB2) (hp 95 pc dens),25.104,8.72,669,8501,4300
+934,titanium carbide (TiC) (93 pc dense),16.318,6.29,569,6507,4560
+935,titanium carbide (TiC) (96 pc dense),31.38,11.6,569,9200,4740
+936,titanium carbide + co (Co18 NbC TaC15),31.38,10.5,544,9689,5500
+937,titanium carbide + co (TiC 80 Co 20),35.564,12.1,544,10239,5420
+938,titanium carbide + nbc + ni,33.472,11.2,544,10006,5500
+939,titanium carbide + ni or co (avg prop),29.288,10.6,460,8993,6000
+940,titanium carbide cermet k138a,26.359,8.65,544,8960,5600
+941,titanium carbide cermet k151a,22.594,7.16,544,8442,5800
+942,titanium carbide cermet k161b,23.43,6.22,628,9393,6000
+943,titanium carbide cermet k162b,19.246,5.9,544,7925,6000
+944,titanium carbide cermet k163b1,19.665,5.74,544,8209,6300
+945,titanium carbide cermet k164b,20.083,5.6,544,8491,6600
+946,titanium carbide cermet k165,17.154,5.53,544,7293,5700
+947,titanium nitride (TiN) (hp 70-90 dens),25.104,9.26,603,8250,4500
+948,titanium oxide (TiO2) (rutile a axis),8.786,3.01,686,5062,4250
+949,titanium oxide (TiO2) (rutile c axis),13.389,4.59,686,6249,4250
+950,titanium oxide (TiOS2) (rutile 100 d),8.954,3.07,686,5110,4250
+951,tnt h.e. (2 4 6-trinitrotoluene) (cast),0.26,0.12,1372,744,1550
+952,toluene,0.151,0.1,1720,475,867
+953,torlon (PAI),0.54,0.381,970,875,1460
+954,tourmaline,4.602,1.77,837,3455,3100
+955,tritium (gas),0.096,75.4,4728,11,0.27
+956,tungsten,196.65,76.1,134,22543,19300
+957,tungsten alloy (W75 Re25),64.852,24.6,134,13079,19700
+958,tungsten alloy (W90 Ni6 Cu2-4),77.404,34.6,134,13156,16700
+959,tungsten boride (WB),4.602,1.64,176,3597,16000
+960,tungsten carbide (WC),41.84,14.6,184,10962,15600
+961,tungsten carbide cermet ca2 tool steel,54.392,18.6,209,12622,14000
+962,tungsten carbide cermet ca4 tool steel,112.97,38.6,209,18190,14000
+963,tungsten carbide cermet carboloy 883,100.42,32.1,209,17722,14950
+964,tungsten carbide cermet carboloy 905,100.42,31.8,209,17811,15100
+965,tungsten carbide cermet carboloy 999,121.34,38,209,19675,15250
+966,tungsten carbide cermet k6 and k96,100.42,32.2,209,17692,14900
+967,tungsten carbide cermet k701,53.974,18.4,209,12573,14000
+968,tungsten carbide cermet k801 (WC + Ni),82.006,26.5,209,15934,14800
+969,tungsten carbide cermet k92,74.057,25.7,209,14622,13800
+970,tungsten carbide cermet k94 and k1,91.63,31.1,209,16440,14100
+971,tungsten oxide (Wo3) (polyxtal. porous),25.104,11.3,310,7460,7160
+972,tungsten selenide (WSe2),3.431,1.52,226,2784,10000
+973,tungsten silicide (WSi2) (hp 95 dense),40.585,14,308,10838,9400
+974,tungsten telluride (wte2),1.59,0.75,176,1831,12000
+975,tungsten titanium carbide k21,44.35,9.57,377,14333,12300
+976,tungsten titanium carbide k2s,52.718,10.9,377,16003,12900
+977,tungsten titanium carbide k4h,46.861,9.96,377,14853,12500
+978,tungsten titanium carbide k5h,35.564,8.21,377,12411,11500
+979,tungsten titanium carbide k81,42.677,9.77,377,13654,11600
+980,tungsten titanium carbide k84,53.137,12.1,377,15301,11700
+981,tungsten titanium carbide k86 k7h k3h,28.033,6.71,377,10825,11100
+982,tungsten titanium carbide km,59.831,12.3,377,17049,12900
+983,udmh (unsymmetrical dimethylhydrazine),0.16,0.0764,2650,578.9,790
+984,uranium,26.443,11.8,117,7694,19100
+985,uranium alloy (U82 Zr18),10.878,4.61,167,5067,14100
+986,uranium alloy (U90 FS10),15.062,6.54,134,5890,17200
+987,uranium alloy (U90 Mo10),12.343,5.34,134,5339,17250
+988,uranium alloy (U93 Fs5 Zr2),20.083,9.09,126,6660,17600
+989,uranium alloy (U94.4 Cr5.6) (eutectic),28.451,13.9,111,7626,18500
+990,uranium alloy (U95 Zr5),18.828,8.57,126,6430,17500
+991,uranium alloy (U96 Nb4),22.803,10.3,126,7117,17700
+992,uranium alloy (U97 fs3),21.338,9.29,126,7000,18300
+993,uranium alloy (U98.5 Zr1.5),22.594,10.4,117,7018,18600
+994,uranium alloy mulberry,10.46,4.33,146,5027,16500
+995,uranium beryllide (UBe13) (sntrd 61d),20.92,9.26,837,6875,2700
+996,uranium boride (UB4),5.021,1.07,502,4863,9380
+997,uranium carbide (UC) (arcm or cast 99d),20.083,7.28,203,7444,13600
+998,uranium carbide (UC) (avg),23.849,8.71,203,8082,13500
+999,uranium carbide (UC) (sintered 90d),17.364,6.96,203,6583,12300
+1000,uranium carbide (UC2),33.472,12.6,234,9414,11300
+1001,uranium nitride (UN) (hp 95-98 dense),13.807,5.31,188,5990,13800
+1002,uranium oxide (U3O8) (prsd at 100 psi),0.297,0.14,276,810,8000
+1003,uranium oxide (U3O8) (prsd at 4200 psi),0.544,0.24,276,1116,8300
+1004,uranium oxide (UO2) (polyxtal 97 dens),10.042,3.9,243,5083,10600
+1005,uranium oxide (UO2) (single crystal),10.46,3.93,243,5275,10960
+1006,uranium oxide + cr (UO2 8Ovol) (97 d),15.899,4.75,335,7295,10000
+1007,uranium oxide + mo (UO2 70 vol) (92 d),20.083,6,335,8199,10000
+1008,uranium oxide + mo (UO2 😯 vol) (91 d),13.807,4.13,335,6798,10000
+1009,uranium oxide + mo (UO2 😯 vol) (94 d),18.41,5.5,335,7850,10000
+1010,uranium oxide + nb (UO2 80 vol),9.623,2.88,335,5675,10000
+1011,uranium oxide + st steel (UO2 70 vol),7.95,2.38,335,5158,10000
+1012,uranium oxide + st steel (UO2 80 vol),6.276,1.88,335,4583,10000
+1013,uranium oxide + zr (UO2 43 Zr 57)(59 p),13.389,12.9,259,3727,4000
+1014,uranium oxide + zr (UO2 80 Zr 20),10.878,5.15,243,4795,8710
+1015,uranium plutonium oxide (4UO2.PuO2),7.615,2.73,264,4613,10600
+1016,uranium silicide (U3Si),16.736,6.17,176,6740,15450
+1017,urea-formaldehyde molded,0.126,0.05,1674,561,1500
+1018,urea-formaldehyde alpha cellulose fllr,0.377,0.15,1674,972,1500
+1019,vanadium,30.794,11,460,9298,6100
+1020,vanadium beryllide (VBe12) (85 pc dens),30.962,11.1,1464,9280,1900
+1021,vanadium boride (vb2),56.902,17,661,13810,5070
+1022,vanadium carbide (VC),36.401,12.5,519,10284,5600
+1023,vanadium nitride (VN),12.134,3.4,586,6585,6100
+1024,vegetable oil,0.15,0.0833,2000,519.7,900
+1025,vermiculite brick,0.167,0.41,837,261,485
+1026,vermiculite expanded,0.069,0.31,753,125,300
+1027,vermiculite expanded,0.071,0.43,753,109,220
+1028,vermiculite insulating powder,0.121,0.54,837,166,270
+1029,vycor glass,1.339,0.82,745,1478,2190
+1030,water (H2O) (liquid),0.603,0.14,4184,1588,1000
+1031,water (H2O) (solid - ice),2.092,0.54,4217,2844,917
+1032,water heavy (d2o) (liquid),0.561,0.12,4205,1610,1100
+1033,white fir wood (across grain),0.109,0.11,2301,336,450
+1034,white pine wood (across grain),0.13,0.11,2301,398,530
+1035,window glass - lime,1.318,0.71,753,1569,2480
+1036,wood maple (across grain),0.176,0.11,2301,536,710
+1037,xenon,0.006,6.27,159,2,5.887
+1038,ytterbium,8.368,8.05,149,2949,7000
+1039,ytterbium boride (YbB6) (90.6 pc dense),25.104,8,628,8876,5000
+1040,yttrium,12.552,9.59,293,4054,4470
+1041,yttrium boride (YB6) (98.4 pc dense),29.288,13,628,8135,3600
+1042,yttrium oxide (Y2O3) (96-100 pc dense),14.226,6.36,448,5643,5000
+1043,zilloy 15,104.6,36.3,402,17369,7180
+1044,zinc,111.71,40.2,389,17617,7140
+1045,zinc (liquid),59.413,17.4,502,14243,6800
+1046,zinc alloy astm b69,107.53,38.3,393,17377,7140
+1047,zinc antimonide (ZnSb),2.343,1.37,272,2004,6300
+1048,zinc ferrite (ZnO.Fe2O3),4.017,1.29,586,3541,5330
+1049,zinc oxide (ZnO),27.196,9.78,494,8694,5630
+1050,zinc sulfide (ZnS) (cubic crystal),25.941,13.4,473,7091,4100
+1051,zinc-aluminum alloy astm 23,112.97,40.9,418,17662,6600
+1052,zinc-aluminum-copper alloy astm 25,108.78,38.8,418,17463,6700
+1053,zircon porcelain (high k),5.858,2.56,586,3658,3900
+1054,zirconium,31.38,17,285,7618,6500
+1055,zirconium alloy 3zi (Zr97 Al1 Sn1 Mo1),8.368,4.55,285,3922,6460
+1056,zirconium alloys zircalloy 2 and 3,13.807,7.19,293,5151,6560
+1057,zirconium beryllide (ZrBe13),39.748,12.7,1138,11153,2750
+1058,zirconium boride (ZrB2) (hp 97 pc den),25.104,10.2,418,7872,5900
+1059,zirconium carbide (ZrC) (hp or snt 94d),33.472,15.2,368,8599,6000
+1060,zirconium hydride (ZrH + ZrH2),18.41,9.44,310,5992,6300
+1061,zirconium nitride (ZrN),8.786,3.36,385,4796,6800
+1062,zirconium nitride (ZrN) (pr sr 88-90 d),10.46,4.18,385,5116,6500
+1063,zirconium oxide (Y2O3 12 Zr 8) (97 d),2.469,1.02,439,2442,5500
+1064,zirconium oxide (ZrO2 96 CaO 6 91 d),1.59,0.69,456,1919,5080
+1065,zirconium oxide (ZrO2) (monoc. 100 d),1.849,0.73,456,2166,5560
+1066,zirconium oxide + ti cermet zt-15-m,6.276,2.48,444,3983,5700
+1067,zirconium silicate (ZrO2.SiO2) (100 d),6.276,2.51,544,3963,4600
+1068,zirconium silicate (ZrO2.SiO2) (single crystal),4.184,1.67,544,3235,4600
